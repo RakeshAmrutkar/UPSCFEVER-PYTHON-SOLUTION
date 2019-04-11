@@ -1,2 +1,3 @@
-# UPSCFEVER-PYTHON-SOLUTION
-THIS REPOSITORY CONTAIN THE SOLUTION OF THE EXERCISES OF upscfever.in
+# UPSCFEVER - PYTHON - SOLUTION
+      This Repository contains the solutions of all phython collabotary notebooks from the upscfever.com
+     
